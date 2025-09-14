@@ -1,4 +1,21 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.1.58:
+
+we miss few releases so there few change between 1.1.58 and 1.1.53 added them here: 
+- Fixed issue where users are unable to join a new circle
+- Improved chore visibility logic  
+- Fixed issue where self-hosted instance did not have plus features
+
+- **Apple App Store Launch**: Official launch of Donetick on the Apple App Store for both iPhone and iPad
+- **Task Approval System**: Added support for requiring approval for tasks
+- **Enhanced Calendar Views**: Calendar monthly view with priority colors and dual-month display for tablets
+- **Dashboard Improvements**: New "Tasks by Assignee" card and user switcher replacing welcome card
+- **Mobile-First UI**: Overhauled user interface with better safe area handling and more intuitive modal interactions
+- **Quick Access**: Added user profile quick access in the top right corner
+
+
+
+
 ## 1.1.53:
 - **Home Assistant Integration Update**: Added support for the latest Donetick integration, enabling full control of Things and management of Tasks (add, edit, delete) directly from Home Assistant.
 - **Individual To-Do Lists**: Each user now has a personal to-do list, in addition to a master list for the entire circle.
