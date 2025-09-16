@@ -1,4 +1,12 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
+## 1.1.60:
+Improve impersonate user functionality and fix the issue where the user is unable to start, pause, and complete tasks
+Release new version for app store and new Android APK
+add count of unplanned tasks, overdue, and pending approval on calendar view
+few cosmetic updates for History Card
+Show user details on timer session
+
+
 ## 1.1.58:
 
 we miss few releases so there few change between 1.1.58 and 1.1.53 added them here: 
