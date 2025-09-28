@@ -1,5 +1,5 @@
 
-# Donetick Selfhosted : Hassio Add-on
+# Fencerf Donetick Selfhosted : Hassio Add-on
 #### **Simplify Tasks & Chores, Together!**
 
 Donetick is an open-source, user-friendly app designed to help you organize tasks and chores effectively.featuring customizable options to help you and others stay organized
