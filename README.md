@@ -1,4 +1,4 @@
-# Donetick Add-on for Home Assistant
+# Fencerf Donetick Add-on for Home Assistant
 
 This is the official add-on for [Donetick](https://github.com/donetick/donetick) with Home Assistant. Donetick is an open-source app for managing tasks, chores, and automations with advanced scheduling and notification features.
 
